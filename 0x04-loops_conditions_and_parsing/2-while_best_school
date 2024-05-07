@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Write a Bash script that displays Best School 10 times.
+#Requirements: you must use the while loop (for and until are forbidden)
+
+while echo "Best School"; do
+	echo " alx";
+done
